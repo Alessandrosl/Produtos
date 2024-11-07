@@ -1,0 +1,2 @@
+C:\Users\2021202060039\source\repos\Produto\obj\Debug\Produto.csproj.AssemblyReference.cache
+C:\Users\2021202060039\source\repos\Produto\obj\Debug\Produto.csproj.CoreCompileInputs.cache
